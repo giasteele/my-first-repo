@@ -9,6 +9,6 @@ Question: Which design flies farther in these fictional workshop data?
 
 My finding: Glider wins for a typical flight,because its median and 6 meters which is longer than the median of dart. Dart made the record distance in this experiement.
 
-My method: I sort the data points 
+My method: I sort the data points and find the middle one for the median
 
 One thing I would test next: [Your idea and why.]
